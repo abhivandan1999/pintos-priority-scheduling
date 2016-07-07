@@ -1,0 +1,1 @@
+qemu -hda /tmp/vlyMim2uP3.dsk -m 4 -net none -nographic -monitor null
